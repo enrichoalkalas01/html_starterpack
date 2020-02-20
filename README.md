@@ -12,6 +12,7 @@ Include :
       - Main.js
     - Plugin
       - Bootstrap 4
+      - JQuery
       - Owl Carousel
       - React Js
       - Slick
